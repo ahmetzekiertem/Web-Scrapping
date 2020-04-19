@@ -1,0 +1,597 @@
+-----------------------------------------------
+1.
+Kitap İsmi : Körlük
+Yazar :  Jose Saramago
+Kitap İsmi : KIRMIZI KEDİ YAYINEVİ
+-----------------------------------------------
+-----------------------------------------------
+2.
+Kitap İsmi : Şeker Portakalı (Ciltsiz)
+Yazar :  Jose Mauro De Vasconcelos
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+3.
+Kitap İsmi : Allah’ım Ben Geldim
+Yazar :  Hatice Kübra Tongar
+Kitap İsmi : HAYY KİTAP
+-----------------------------------------------
+-----------------------------------------------
+4.
+Kitap İsmi : Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Yazar : Prof. Dr. İlber Ortaylı
+Kitap İsmi : KRONİK KİTAP
+-----------------------------------------------
+-----------------------------------------------
+5.
+Kitap İsmi : Hayvan Çiftliği (Ciltsiz)
+Yazar :  George Orwell
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+6.
+Kitap İsmi : Momo
+Yazar :  Michael Ende
+Kitap İsmi : PEGASUS YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+7.
+Kitap İsmi : Altıncı Koğuş
+Yazar :  Anton Çehov
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+8.
+Kitap İsmi : Simyacı (Ciltsiz)
+Yazar :  Paulo Coelho
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+9.
+Kitap İsmi : 1984
+Yazar :  George Orwell
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+10.
+Kitap İsmi : Sineklerin Tanrısı (karton kapak)
+Yazar :  William Golding
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+11.
+Kitap İsmi : Otomatik Portakal (ciltsiz)
+Yazar :  Anthony Burgess
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+12.
+Kitap İsmi : Fabrika Ayarı
+Yazar :  Hayati İnanç
+Kitap İsmi : PROFİL KİTAP
+-----------------------------------------------
+-----------------------------------------------
+13.
+Kitap İsmi : Yabancı
+Yazar :  Bekir Develi
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+14.
+Kitap İsmi : Suç ve Ceza (Ciltsiz)
+Yazar :  Albert Camus
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+15.
+Kitap İsmi : Cesur Yeni Dünya
+Yazar :  Fyodor Mihayloviç Dostoyevski
+Kitap İsmi : İTHAKİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+16.
+Kitap İsmi : Bir İdam Mahkumunun Son Günü (Karton Kapak)
+Yazar :  Aldous Huxley
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+17.
+Kitap İsmi : İrade Terbiyesi
+Yazar :  Victor Hugo
+Kitap İsmi : EDİZ YAYINEVİ
+-----------------------------------------------
+-----------------------------------------------
+18.
+Kitap İsmi : Bilinmeyen Bir Kadının Mektubu (Karton Kapak)
+Yazar :  Jules Payot
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+19.
+Kitap İsmi : İçimizdeki Şeytan
+Yazar :  Stefan Zweig
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+20.
+Kitap İsmi : Kırmızı Pazartesi
+Yazar :  Sabahattin Ali
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+21.
+Kitap İsmi : Olağanüstü Bir Gece
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+22.
+Kitap İsmi : Fahrenheit 451
+Yazar :  Ray Bradbury
+Kitap İsmi : İTHAKİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+23.
+Kitap İsmi : Tüfek, Mikrop ve Çelik 
+Yazar :  Jared Diamond
+Kitap İsmi : PEGASUS YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+24.
+Kitap İsmi : İnsan Neyle Yaşar (Karton Kapak)
+Yazar :  Lev N. Tolstoy
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+25.
+Kitap İsmi : Veba
+Yazar :  Albert Camus
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+26.
+Kitap İsmi : Veronika Ölmek İstiyor
+Yazar :  Paulo Coelho
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+27.
+Kitap İsmi : Çavdar Tarlasında Çocuklar
+Yazar :  J. D. Salinger
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+28.
+Kitap İsmi : Huzursuzluk
+Yazar :  Zülfü Livaneli
+Kitap İsmi : DOĞAN KİTAP
+-----------------------------------------------
+-----------------------------------------------
+29.
+Kitap İsmi : Yeraltından Notlar (Karton Kapak)
+Yazar :  Fyodor Mihayloviç Dostoyevski
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+30.
+Kitap İsmi : Satranç (Karton Kapak)
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+31.
+Kitap İsmi : Serenad (Karton Kapak)
+Yazar :  Zülfü Livaneli
+Kitap İsmi : DOĞAN KİTAP
+-----------------------------------------------
+-----------------------------------------------
+32.
+Kitap İsmi : Camdaki Kız
+Yazar : Dr. Gülseren Budayıcıoğlu
+Kitap İsmi : DOĞAN KİTAP
+-----------------------------------------------
+-----------------------------------------------
+33.
+Kitap İsmi : Kuyucaklı Yusuf
+Yazar :  Sabahattin Ali
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+34.
+Kitap İsmi : Aylak Adam
+Yazar :  Yusuf Atılgan
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+35.
+Kitap İsmi : Korku
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+36.
+Kitap İsmi : Amok Koşucusu
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+37.
+Kitap İsmi : Aşkımız Eski Bir Roman
+Yazar :  Ahmet Ümit
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+38.
+Kitap İsmi : Ben, Kirke
+Yazar :  Madeline Miller
+Kitap İsmi : İTHAKİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+39.
+Kitap İsmi : Kürk Mantolu Madonna
+Yazar :  Sabahattin Ali
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+40.
+Kitap İsmi : Mecburiyet
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+41.
+Kitap İsmi : Güneşi Uyandıralım
+Yazar :  Jose Mauro De Vasconcelos
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+42.
+Kitap İsmi : Hata Neredeydi? & Doğu’nun 300 Yıldır Cevabını Aradığı Soru
+Yazar :  Bernard Lewis
+Kitap İsmi : KRONİK KİTAP
+-----------------------------------------------
+-----------------------------------------------
+43.
+Kitap İsmi : Semerkant
+Yazar :  Amin Maalouf
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+44.
+Kitap İsmi : Dönüşüm (Karton Kapak)
+Yazar :  Franz Kafka
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+45.
+Kitap İsmi : Bir Çöküşün Öyküsü
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+46.
+Kitap İsmi : Nar Ağacı
+Yazar : Prof. Dr. Nazan Bekiroğlu
+Kitap İsmi : TİMAŞ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+47.
+Kitap İsmi : Çizgili Pijamalı Çocuk
+Yazar :  John Boyne
+Kitap İsmi : TUDEM YAYINEVİ
+-----------------------------------------------
+-----------------------------------------------
+48.
+Kitap İsmi : Sarmal
+Yazar :  Murat Ağırel
+Kitap İsmi : KIRMIZI KEDİ YAYINEVİ
+-----------------------------------------------
+-----------------------------------------------
+49.
+Kitap İsmi : Yaklaşıyor Yaklaşmakta Olan
+Yazar :  Tahir Şimşek
+Kitap İsmi : SİNADA KİTAP
+-----------------------------------------------
+-----------------------------------------------
+50.
+Kitap İsmi : Kolera Günlerinde Aşk
+Yazar :  Gabriel Garcia Marquez
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+51.
+Kitap İsmi : Ay Işığı Sokağı
+Yazar :  Stefan Zweig
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+52.
+Kitap İsmi : Kardeşimin Hikayesi (Karton Kapak)
+Yazar :  Zülfü Livaneli
+Kitap İsmi : DOĞAN KİTAP
+-----------------------------------------------
+-----------------------------------------------
+53.
+Kitap İsmi : Devlet (Ciltsiz)
+Yazar :  Platon(Eflatun) 
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+54.
+Kitap İsmi : Beyaz Zambaklar Ülkesinde  (Atatürk 'ün askerlere tavsiye ettiği kitap)
+Yazar :  Grigory Petrov
+Kitap İsmi : KARBON KİTAPLAR
+-----------------------------------------------
+-----------------------------------------------
+55.
+Kitap İsmi : Hayvanlardan Tanrılara Sapiens &  İnsan Türünün Kısa Bir Tarihi
+Yazar :  Yuval Noah Harari
+Kitap İsmi : KOLEKTİF KİTAP
+-----------------------------------------------
+-----------------------------------------------
+56.
+Kitap İsmi : Sırça Köşk
+Yazar :  Sabahattin Ali
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+57.
+Kitap İsmi : İnsanın Anlam Arayışı
+Yazar :  Viktor Emil Frankl
+Kitap İsmi : OKUYAN US YAYIN
+-----------------------------------------------
+-----------------------------------------------
+58.
+Kitap İsmi : Bunu Herkes Bilir & Tarihte Yanlış Sorulara Doğru Cevaplar
+Yazar :  Emrah Safa Gürkan
+Kitap İsmi : KRONİK KİTAP
+-----------------------------------------------
+-----------------------------------------------
+59.
+Kitap İsmi : Othello (Karton Kapak)
+Yazar :  William Shakespeare
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+60.
+Kitap İsmi : Masumiyet Müzesi
+Yazar :  Orhan Pamuk
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+61.
+Kitap İsmi : Sokrates'in Savunması (Karton Kapak)
+Yazar :  Platon(Eflatun) 
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+62.
+Kitap İsmi : Yüzyıllık Yalnızlık (Ciltsiz)
+Yazar :  Gabriel Garcia Marquez
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+63.
+Kitap İsmi : Son Av
+Yazar :  Jean Christophe Grange
+Kitap İsmi : DOĞAN KİTAP
+-----------------------------------------------
+-----------------------------------------------
+64.
+Kitap İsmi : Dokuzuncu Hariciye Koğuşu
+Yazar :  Peyami Safa
+Kitap İsmi : ÖTÜKEN NEŞRİYAT
+-----------------------------------------------
+-----------------------------------------------
+65.
+Kitap İsmi : Saatleri Ayarlama Enstitüsü
+Yazar :  Ahmet Hamdi Tanpınar
+Kitap İsmi : DERGAH YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+66.
+Kitap İsmi : Delifişek
+Yazar :  Jose Mauro De Vasconcelos
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+67.
+Kitap İsmi : Yaklaşıyor Yaklaşmakta Olan 2 / Rüyalarınız
+Yazar :  Tahir Şimşek
+Kitap İsmi : SİNADA KİTAP
+-----------------------------------------------
+-----------------------------------------------
+68.
+Kitap İsmi : İçimdeki Müzik 
+Yazar :  Sharon M. Draper
+Kitap İsmi : TİMAŞ GENÇ
+-----------------------------------------------
+-----------------------------------------------
+69.
+Kitap İsmi : Genç Werther'in Acıları (Ciltsiz)
+Yazar :  Johann Wolfgang Goethe
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+70.
+Kitap İsmi : Sabahattin Ali Seti (3 Kitap)
+Yazar :  Sabahattin Ali
+Kitap İsmi : KARBON KİTAPLAR
+-----------------------------------------------
+-----------------------------------------------
+71.
+Kitap İsmi : Romeo ve Juliet (Karton Kapak)
+Yazar :  William Shakespeare
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+72.
+Kitap İsmi : Gurur ve Önyargı (Ciltsiz)
+Yazar :  Jane Austen
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+73.
+Kitap İsmi : Gülün Adı (Ciltsiz)
+Yazar :  Umberto Eco
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+74.
+Kitap İsmi : Martin Eden
+Yazar :  Jack London
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+75.
+Kitap İsmi : Karamazov Kardeşler (Ciltsiz)
+Yazar :  Fyodor Mihayloviç Dostoyevski
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+76.
+Kitap İsmi : Yeşilin Kızı Anne
+Yazar :  L. M. Montgomery
+Kitap İsmi : SALTOKUR
+-----------------------------------------------
+-----------------------------------------------
+77.
+Kitap İsmi : İnce Memed 1
+Yazar :  Yaşar Kemal
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+78.
+Kitap İsmi : Bırak ve Rahatla
+Yazar : Pedagog Adem Güneş
+Kitap İsmi : TİMAŞ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+79.
+Kitap İsmi : Uğultulu Tepeler
+Yazar :  Emily Bronte
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+80.
+Kitap İsmi : Görmek
+Yazar :  Jose Saramago
+Kitap İsmi : KIRMIZI KEDİ YAYINEVİ
+-----------------------------------------------
+-----------------------------------------------
+81.
+Kitap İsmi : Siddhartha (Ciltsiz)
+Yazar :  Hermann Hesse
+Kitap İsmi : CAN YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+82.
+Kitap İsmi : Akıl Defteri - Dokun ve Hisset Serisi - Tavus Kuşları
+Yazar :  Zülfü Livaneli
+Kitap İsmi : AKIL DEFTERİ
+-----------------------------------------------
+-----------------------------------------------
+83.
+Kitap İsmi : Son Ada
+Yazar :  Stefan Zweig
+Kitap İsmi : DOĞAN KİTAP
+-----------------------------------------------
+-----------------------------------------------
+84.
+Kitap İsmi : Lyon’da Düğün
+Yazar :  Oscar Wilde
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+85.
+Kitap İsmi : Dorian Gray'in Portresi (Karton Kapak)
+Yazar :  Mecit Ömür Öztürk
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+86.
+Kitap İsmi : Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Yazar :  Antoine De Saint Exupery
+Kitap İsmi : HAYY KİTAP
+-----------------------------------------------
+-----------------------------------------------
+87.
+Kitap İsmi : Küçük Prens
+Yazar :  Beyhan Budak
+Kitap İsmi : CAN ÇOCUK YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+88.
+Kitap İsmi : Senin Suçun Değil
+Yazar :  Ferenc Molnar
+Kitap İsmi : İNKILAP KİTABEVİ
+-----------------------------------------------
+-----------------------------------------------
+89.
+Kitap İsmi : Pal Sokağı Çocukları
+Yazar :  Orhan Pamuk
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+90.
+Kitap İsmi : Kırmızı Saçlı Kadın
+Yazar :  Stefan Zweig
+Kitap İsmi : YAPI KREDİ YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+91.
+Kitap İsmi : Bir Kadının Yaşamından Yirmi Dört Saat
+Yazar : Dr. Gülseren Budayıcıoğlu
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+92.
+Kitap İsmi : Günahın Üç Rengi & Madalyonun Öteki Yüzü
+Yazar :  Fyodor Mihayloviç Dostoyevski
+Kitap İsmi : REMZİ KİTABEVİ
+-----------------------------------------------
+-----------------------------------------------
+93.
+Kitap İsmi : Kumarbaz (Karton Kapak)
+Yazar :  Asa Lind
+Kitap İsmi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+94.
+Kitap İsmi : Kumkurdu Serisi Seti (3 Kitap)
+Yazar :  Şermin Yaşar
+Kitap İsmi : PEGASUS  ÇOCUK YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+95.
+Kitap İsmi : Abartma Tozu
+Yazar :  Oğuz Atay
+Kitap İsmi : TAZE KİTAP
+-----------------------------------------------
+-----------------------------------------------
+96.
+Kitap İsmi : Tutunamayanlar / Bütün Eserleri 1
+Yazar :  Halil Yaşar Kollu
+Kitap İsmi : İLETİŞİM YAYINLARI
+-----------------------------------------------
+-----------------------------------------------
+97.
+Kitap İsmi : Heyet 4 / Türklerin Kutsal Hikayesi
+Yazar :  Harper Lee
+Kitap İsmi : LOPUS
+-----------------------------------------------
+-----------------------------------------------
+98.
+Kitap İsmi : Bülbülü Öldürmek
+Yazar :  Victor Hugo
+Kitap İsmi : EPSİLON YAYINEVİ
+-----------------------------------------------
+-----------------------------------------------
+99.
+Kitap İsmi : Bir İdam Mahkumunun Son Günü (Cep Boy)
+Yazar :  Amin Maalouf
+Kitap İsmi : KARBON KİTAPLAR
+-----------------------------------------------
+-----------------------------------------------
+100.
+Kitap İsmi : Doğunun Limanları
